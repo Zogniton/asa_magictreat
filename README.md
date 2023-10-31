@@ -1,1 +1,1 @@
-# asa_magictreat
+# ARK Ascended MagiTreat Mod
